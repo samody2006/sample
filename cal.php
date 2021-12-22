@@ -26,5 +26,3 @@ $b = new Calculator();
 echo $b->showX()."\n"; 
 echo $b->constant()."\n"; 
 echo $b->constant() * ('599')."\n"; 
-// echo $b->calcute()."\n"; 
-// echo $b->multiply()."\n"; 
